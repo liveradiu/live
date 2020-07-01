@@ -3,7 +3,7 @@
     "short_name": "راديو لايف",
     "icons": [
         {
-            "src": "https://liveradiu.github.io/live/android-chrome-96x96.png",
+            "src": "https://liveradiu.github.io/live/android-chrome-96.png",
             "sizes": "96x96",
             "type": "image/png"
         }
